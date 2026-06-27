@@ -131,7 +131,7 @@ Invitamos a ingenieros, físicos y makers a validar o refinar independientemente
 - Reportar incertidumbre (Tipo A/B) conforme a ISO/IEC Guide 98-3 (GUM).
 - Consolidaremos conjuntos de datos validados en un benchmark público.
 
-📩 **Contacto:** [Su correo o enlace a GitHub Discussions]  
+📩 **Contacto:** [energiageometricaaeg@gmail.com]  
 🤝 **Colaboración:** Abierto a coautoría en validaciones revisadas por pares, optimización CFD o iteración de hardware.
 
 ---
