@@ -178,3 +178,4 @@ Puede compartir y adaptar este material, incluso comercialmente, bajo la condici
 }
 "La geometría es libre. El flujo es universal. Los datos están abiertos. Valide, refine, comparta."
 — Daniel Rolando Ortecho Acosta, Ing. Químico | Lima, Perú
+**Correo electronico** energiageometricaaeg@gmail.com
